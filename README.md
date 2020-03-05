@@ -42,7 +42,7 @@ Linear(self.128, num_classes)
 - Loss Function: MSELoss()
 - Optimizer: Adam()
 - Training: Mini batch
-- MSE
-- Conclusion
+- MSE: (dyskinesia, on_off, tremor) = (0.8127, 1.4429, 0.8147); mean = 1.023
+- Conclusion: Good Model.
 
 
